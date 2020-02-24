@@ -1,6 +1,6 @@
 # dotex-Board
 Schematics and PCB for an STM32F103C8T6 ARM Cortex M3 with ENC28J60 Ethernet chip.  
-this project designed in altium designer 20 by Dotex:.  
+this project designed in altium designer 20 by **Dotex:.**  
 ## website : [www.DotexGroup.ir](www.DotexGroup.ir/)   
 ## instagram link : [DotexGroup](https://www.instagram.com/dotexgroup/)  
 > Shiraz , IRAN 2020
