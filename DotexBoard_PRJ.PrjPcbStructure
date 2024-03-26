@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=[00]_DoteXGroup.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=[00]_DoteXGroup.SchDoc|FileName=[1]DotexBoard_MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=[00]_DoteXGroup.SchDoc|FileName=[2]DotexBoard_ENC28J60.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=[00]_DoteXGroup.SchDoc|FileName=[3]DotexBoard_Interfaces.SchDoc|SheetNumber= 
